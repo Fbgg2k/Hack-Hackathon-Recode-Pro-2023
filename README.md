@@ -1,4 +1,4 @@
-# Hack-Hackaton-Recode-Pro-2023
+# Hack-Hackathon-Recode-Pro-2023
 Solução de app delivery desenvolvida para o hackathon recode pro
 
 Site do app inventor:
