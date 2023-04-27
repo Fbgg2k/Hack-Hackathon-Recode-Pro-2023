@@ -1,5 +1,5 @@
 # Hack-Hackaton-Recode-Pro-2023
-Solução de app delivery desenvolvida para o hackaton recode pro
+Solução de app delivery desenvolvida para o hackathon recode pro
 
 Site do app inventor:
 https://appinventor.mit.edu/
